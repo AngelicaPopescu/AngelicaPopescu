@@ -1,5 +1,5 @@
 ## Hi there 👋,  I'm Angelica!
-- I’m a Junior Full-Stack-Web-Developer living in Bucharest experienced in building accessible web applications using Java with JavaSpring for Back-End and JavaScript with React for Front-End. As a recent gratuated CodeCool Student, I’m looking to increase my portfolio and, I'm very open to learn lots of new things.
+- I’m a __Junior Full-Stack-Developer__ living in Bucharest. I have experience using *Java* with __JavaSpring__ for Back-End development and *JavaScript* with __React__ for Front-End development. I recently graduated from [CodeCool](https://codecool.com/ro/?utm_source=Google&utm_medium=CPC&utm_campaign=RO_Search_FS_NS&utm_content=Brand) and am looking to grow my portfolio while also learning new skills.
 
 ### 💻 My tehnical skills:
 <p align="left">  
